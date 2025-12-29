@@ -1,0 +1,10 @@
+Namaz Time MM is a privacy-focused Islamic prayer times calculator specifically optimized for Myanmar.
+
+Features:
+- Precise solar calculation for 20+ Myanmar cities.
+- Global coverage with multiple calculation methods (MWL, Karachi, ISNA, etc.).
+- Bilingual support: Burmese and English interfaces.
+- Hijri calendar integration.
+- Qibla direction finder.
+- Completely offline functionality after initial setup.
+- 100% Free and Open Source with NO tracking or analytics.
